@@ -4,5 +4,14 @@
   "artist": "Ibenq Turbo",
   "author": "Ibenq Turbo",
   "cover": "https://ccdn.lezhin.com/v2/comics/5313740823396352/images/wide.webp?updated=1648090551245",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1649053551",
+      "groups": {
+        "LezhinUS": "/proxy/api/imgur/chapter/paLrDIs"
+      }
+    }
+  }
 }
