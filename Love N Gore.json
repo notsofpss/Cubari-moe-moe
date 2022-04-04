@@ -20,6 +20,38 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/ZealCz6"
       }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1649054537",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/IhbI4QU"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "",
+      "last_updated": "1649054637",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/e8URQTE"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "",
+      "last_updated": "1649054705",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/W0bnrR0"
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "",
+      "last_updated": "1649054780",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/tO4AfRi"
+      }
     }
   }
 }
