@@ -4,5 +4,22 @@
   "artist": "Fakku ",
   "author": "",
   "cover": "https://i.imgur.com/qhydaaE.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1649182473",
+      "groups": {
+        "Crimson Whispers - Chapter 1": "/proxy/api/imgur/chapter/7k1ZMh4"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1649182529",
+      "groups": {
+        "Crimson Whispers - Chapter 2": "/proxy/api/imgur/chapter/M66jOca"
+      }
+    }
+  }
 }
